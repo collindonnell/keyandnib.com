@@ -1,0 +1,57 @@
+$body-background: #FFFFFF;
+$body-color: #000;
+
+h1, h2 {
+  font-family: -apple-system-ui-serif, ui-serif;
+}
+
+body {
+  background: $body-background;
+  color: $body-color;
+  font-family: system-ui, Helvetica, sans-serif;
+  max-width: 600px;
+  margin: auto;
+  padding: 0 20px 20px 20px;
+}
+
+main {
+  margin: 2rem auto;
+  max-width: 60rem;
+}
+
+p {
+  line-height: 1.4;
+}
+
+header {
+  h1 {
+    margin-bottom: 0.1em;
+  }
+  p {
+    padding: 0;
+    margin: 0;
+  }
+}
+
+nav {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+footer img {
+  padding-top: 2px;
+  float: right;
+}
+
+article p {
+  line-height: 1.4;
+}
+
+hr {
+  border: 0.5px solid #dddddd;
+}
