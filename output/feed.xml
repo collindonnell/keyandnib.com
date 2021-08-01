@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="0.21.0">Bridgetown</generator><link href="http://keyandnib.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://keyandnib.com/" rel="alternate" type="text/html" /><updated>2021-08-01T12:57:59-07:00</updated><id>http://keyandnib.com/feed.xml</id><title type="html">Key &amp;amp; Nib</title><subtitle>Write an awesome description for your new site here. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Pharo Zen</title><link href="http://keyandnib.com/2021/08/01/pharo-zen/" rel="alternate" type="text/html" title="Pharo Zen" /><published>2021-08-01T00:00:00-07:00</published><updated>2021-08-01T00:00:00-07:00</updated><id>http://keyandnib.com/2021/08/01/pharo-zen</id><content type="html" xml:base="http://keyandnib.com/2021/08/01/pharo-zen/">&lt;p&gt;If you’re not familiar, &lt;a href=&quot;http://pharo.org&quot;&gt;Pharo&lt;/a&gt; is a version of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Smalltalk&quot;&gt;Smalltalk programming language&lt;/a&gt;. If you’re interested in object-oriented and software design in general, you should definitely check it out.&lt;/p&gt;
+
+&lt;p&gt;If you go to the &lt;em&gt;Help&lt;/em&gt; menu in Pharo, one of the items is Pharo Zen. I thought maybe it would be something like &lt;a href=&quot;http://rubykoans.com&quot;&gt;Ruby Koans&lt;/a&gt;, but it turned out to be this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Our values and convictions are condensed in this simple list.&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Abstraction and composition are our friends.&lt;/li&gt;
+    &lt;li&gt;Quality is an emerging property.&lt;/li&gt;
+    &lt;li&gt;Communication is key.&lt;/li&gt;
+    &lt;li&gt;Beauty in the code, beauty in the comments.&lt;/li&gt;
+    &lt;li&gt;Simple processes to support progress.&lt;/li&gt;
+    &lt;li&gt;Magic only at the right place.&lt;/li&gt;
+    &lt;li&gt;Perfection can kill movement.&lt;/li&gt;
+    &lt;li&gt;Examples to learn from.&lt;/li&gt;
+    &lt;li&gt;Fully dynamic and malleable.&lt;/li&gt;
+    &lt;li&gt;Explicit is better than implicit.&lt;/li&gt;
+    &lt;li&gt;Simplicity is the ultimate elegance.&lt;/li&gt;
+    &lt;li&gt;Learning from mistakes.&lt;/li&gt;
+    &lt;li&gt;Tests are important but can be changed.&lt;/li&gt;
+    &lt;li&gt;Polymorphism is our esperanto.&lt;/li&gt;
+    &lt;li&gt;There is no unimportant fix.&lt;/li&gt;
+    &lt;li&gt;Easy to understand, easy to learn from, easy to change.&lt;/li&gt;
+    &lt;li&gt;Better a set of small polymorphic classes than a large ugly one.&lt;/li&gt;
+    &lt;li&gt;Classes structure our vocabulary.&lt;/li&gt;
+    &lt;li&gt;One step at a time.&lt;/li&gt;
+    &lt;li&gt;Objects all the way down.&lt;/li&gt;
+    &lt;li&gt;A system with robust abstractions that a single person can understand.&lt;/li&gt;
+    &lt;li&gt;Messages are our vocabulary.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Words to live by.&lt;/p&gt;</content><author><name></name></author><summary type="html">If you’re not familiar, Pharo is a version of the Smalltalk programming language. If you’re interested in object-oriented and software design in general, you should definitely check it out.</summary></entry><entry><title type="html">An iOS Developer Learns Ruby (Part 1)</title><link href="http://keyandnib.com/2021/07/23/ios-developer-learns-ruby/" rel="alternate" type="text/html" title="An iOS Developer Learns Ruby (Part 1)" /><published>2021-07-23T00:00:00-07:00</published><updated>2021-07-23T00:00:00-07:00</updated><id>http://keyandnib.com/2021/07/23/ios-developer-learns-ruby</id><content type="html" xml:base="http://keyandnib.com/2021/07/23/ios-developer-learns-ruby/">&lt;p&gt;I’ve been coding Objective-C professionally for thirteen years and Swift for five-and-a-half. I’ve also dabbled in Python for almost as long as I’ve done Objective-C, although never professionally. My experience with Python is writing lots of little scripts and quite a bit of dabbling with Django. More recently, however, I’ve been learning Ruby, and honestly, I like it.&lt;/p&gt;
+
+&lt;p&gt;I’ve wanted to take the time to get good with a web framework. I also thought of really mastering a language that could replace shell for most of my scripting needs. Another reason is that my friend &lt;a href=&quot;https://twitter.com/samuelgoodwin&quot;&gt;Samuel&lt;/a&gt; kept telling me how great Rails is, and I’ve wanted to learn web development for a while now.&lt;/p&gt;
+
+&lt;h2 id=&quot;simplicity&quot;&gt;Simplicity&lt;/h2&gt;
+
+&lt;p&gt;So why, after trying both, have I decided to go deep on Ruby and not Python? The biggest reason is that it just &lt;em&gt;spoke&lt;/em&gt; to me more. For how synonymous with simplicity Python is, that hasn’t been my experience. &lt;/p&gt;
+
+&lt;p&gt;Ruby is a lot more dynamic, but as someone who’s done a lot of Objective-C, the things people talk about being &lt;strong&gt;magic&lt;/strong&gt; in something like Rails make sense to me. Ruby makes it easy to do things like add methods at runtime, and so if you get how that kind of stuff works, the fact Rails can have &lt;strong&gt;article_params&lt;/strong&gt; available because you called you’re working with &lt;strong&gt;Article&lt;/strong&gt; objects in &lt;strong&gt;ArticleController&lt;/strong&gt; makes total sense. If you understand a few rules, there’s not much to remember in Ruby, from what I can tell.&lt;/p&gt;
+
+&lt;p&gt;In Ruby, everything is an object, and you use the dot operator for message passing. Variables are private by default; if you need to make them accessible, you can add &lt;strong&gt;attr_reader&lt;/strong&gt;, &lt;strong&gt;attr_writer&lt;/strong&gt;, or &lt;strong&gt;attr_accessor&lt;/strong&gt; (read and write). If you need something more specific, you can write custom accessors.  &lt;/p&gt;
+
+&lt;p&gt;In Python, instance variables are public, but there’s also &lt;strong&gt;property()&lt;/strong&gt;, which has a wrapper called &lt;strong&gt;@property&lt;/strong&gt;, and you can also write accessors. I understand the difference, but I’m also never clear on when to do one thing or the other. If you want “private” instance variables, that means putting underscores in front of the name — but that’s just a convention — it doesn’t do anything.&lt;/p&gt;
+
+&lt;p&gt;Another weirdness in Python that adds to its cognitive load is that it’s not &lt;em&gt;entirely&lt;/em&gt; object-oriented. Sometimes you use a method, but other times — &lt;strong&gt;len()&lt;/strong&gt; to get the length of an array or string — they’re global functions. In Ruby, length is always a method call.&lt;/p&gt;
+
+&lt;p&gt;I think Python gets called simple more because, if you’ve never seen either language, the syntax appears more understandable. Ruby uses weird symbols that don’t make sense unless you take the time to learn what they do. The thing is this, though: I don’t care what a language looks like to people who don’t know it — I care how productive and enjoyable it is to use for people who &lt;strong&gt;do&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;shell-scripting&quot;&gt;Shell Scripting&lt;/h2&gt;
+
+&lt;p&gt;Ruby rules for shell scripting. I don’t have to import anything, and I can do useful things. Regular expressions are also built-in, and the syntax is simple. I never found Python good for one-liners on the command line; Ruby is excellent for that. For quick and dirty scripts, the ability to do things like this is amazing:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;command.match(/regex/)&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;The thing about languages is that they’re all great, and they all suck. I probably haven’t gotten far enough into Ruby to figure out what sucks about it. So far, though? It feels comfortable and fun. I think that’s the best you can hope for.&lt;/p&gt;</content><author><name></name></author><summary type="html">I’ve been coding Objective-C professionally for thirteen years and Swift for five-and-a-half. I’ve also dabbled in Python for almost as long as I’ve done Objective-C, although never professionally. My experience with Python is writing lots of little scripts and quite a bit of dabbling with Django. More recently, however, I’ve been learning Ruby, and honestly, I like it.</summary></entry><entry><title type="html">BBEdit 14</title><link href="http://keyandnib.com/2021/07/21/bbedit-14/" rel="alternate" type="text/html" title="BBEdit 14" /><published>2021-07-21T00:00:00-07:00</published><updated>2021-07-21T00:00:00-07:00</updated><id>http://keyandnib.com/2021/07/21/bbedit-14</id><content type="html" xml:base="http://keyandnib.com/2021/07/21/bbedit-14/">&lt;p&gt;Bare Bones software has just updated one of my favorite apps, &lt;a href=&quot;https://www.barebones.com/products/bbedit/&quot;&gt;BBEdit&lt;/a&gt;, to version 14(!). The biggest feature is support for the Language Server Protocol (LSP), which does a lot to you in BBEdit if you’ve been dipping out to other apps primarily for better completion. The way support is built in, my experience has been that if you have the language server installed, it just works. LSP also enables BBEdit to show errors right in the sidebar, which is great.&lt;/p&gt;
+
+&lt;p&gt;Another new feature is the ability to create note documents which are automatically-titled and which are saved automatically. I’ve been using this one a lot too, since I’ll often stick some piece of text in a BBEdit window just to keep it somewhere for reference.&lt;/p&gt;
+
+&lt;p&gt;You can pick up BBEdit 14 from &lt;a href=&quot;http://barebones.com&quot;&gt;Bare Bones&lt;/a&gt; for $50 new, or $30 if you’re upgrading from any previous version. Can’t recommend it highly enough.&lt;/p&gt;</content><author><name></name></author><summary type="html">Bare Bones software has just updated one of my favorite apps, BBEdit, to version 14(!). The biggest feature is support for the Language Server Protocol (LSP), which does a lot to you in BBEdit if you’ve been dipping out to other apps primarily for better completion. The way support is built in, my experience has been that if you have the language server installed, it just works. LSP also enables BBEdit to show errors right in the sidebar, which is great.</summary></entry><entry><title type="html">Use ShellCheck to Lint Your Scripts</title><link href="http://keyandnib.com/2021/07/14/shellcheck/" rel="alternate" type="text/html" title="Use ShellCheck to Lint Your Scripts" /><published>2021-07-14T00:00:00-07:00</published><updated>2021-07-14T00:00:00-07:00</updated><id>http://keyandnib.com/2021/07/14/shellcheck</id><content type="html" xml:base="http://keyandnib.com/2021/07/14/shellcheck/">&lt;p&gt;Although I’ve been moving over to writing more of my scripts in Ruby, I still find that I write a fair number of shell scripts to do various things on my Mac. I don’t write quite enough, however, to have internalized every best practice for writing them error free. A tool I love to use for this is &lt;a href=&quot;https://github.com/koalaman/shellcheck&quot;&gt;ShellCheck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s available in &lt;a href=&quot;http://brew.sh&quot;&gt;Homebrew&lt;/a&gt; and supported in &lt;a href=&quot;http://nova.app&quot;&gt;Nova&lt;/a&gt; (via an extension) and &lt;a href=&quot;http://barebones.com&quot;&gt;BBEdit&lt;/a&gt;, which are the two editors I use most.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/21-07-14_shellcheck.png&quot; width=&quot;70%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Give it a shot and enjoy less error-prone shell scripts.&lt;/p&gt;</content><author><name></name></author><summary type="html">Although I’ve been moving over to writing more of my scripts in Ruby, I still find that I write a fair number of shell scripts to do various things on my Mac. I don’t write quite enough, however, to have internalized every best practice for writing them error free. A tool I love to use for this is ShellCheck.</summary></entry></feed>
